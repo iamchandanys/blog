@@ -1,0 +1,59 @@
+[
+    {
+        "heading": "Front End",
+        "subFields": [
+            {
+                "subHeadings": "Basics",
+                "known": "HTML, CSS, Javascript"
+            },
+            {
+                "subHeadings": "Frameworks",
+                "known": "Angular"
+            },
+            {
+                "subHeadings": "Styles",
+                "known": "Angular Material, Bootstrap, Kendo UI"
+            }
+        ]
+    },
+    {
+        "heading": "Backend",
+        "subFields": [
+            {
+                "subHeadings": "Technology",
+                "known": "ASP .Net"
+            }
+        ]
+    },
+    {
+        "heading": "Database",
+        "subFields": [
+            {
+                "subHeadings": "RDBMS",
+                "known": "MS SQL"
+            },
+            {
+                "subHeadings": "NoSQL",
+                "known": "COSMOS DB"
+            }
+        ]
+    },
+    {
+        "heading": "DevOps",
+        "subFields": [
+            {
+                "subHeadings": "Infrastructure",
+                "known": "Azure"
+            }
+        ]
+    },
+    {
+        "heading": "Mobile",
+        "subFields": [
+            {
+                "subHeadings": "Cross Platform",
+                "known": "Xamarin"
+            }
+        ]
+    }
+]
