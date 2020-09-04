@@ -7,20 +7,20 @@
                 "known": "HTML, CSS, Javascript"
             },
             {
-                "subHeadings": "Frameworks",
-                "known": "Angular"
-            },
-            {
                 "subHeadings": "Styles",
                 "known": "Angular Material, Bootstrap, Kendo UI"
             }
         ]
     },
     {
-        "heading": "Backend",
+        "heading": "Technology",
         "subFields": [
             {
-                "subHeadings": "Technology",
+                "subHeadings": "Frameworks",
+                "known": "Angular"
+            },
+            {
+                "subHeadings": "Backend",
                 "known": "ASP .Net"
             }
         ]
