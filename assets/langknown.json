@@ -1,10 +1,10 @@
 [
     {
-        "heading": "Front End",
+        "heading": "Frontend",
         "subFields": [
             {
                 "subHeadings": "Basics",
-                "known": "HTML, CSS, Javascript"
+                "known": "HTML, (S)CSS, Javascript, JQuery"
             },
             {
                 "subHeadings": "Styles",
@@ -17,11 +17,11 @@
         "subFields": [
             {
                 "subHeadings": "Frameworks",
-                "known": "Angular"
+                "known": "Angular (10)"
             },
             {
                 "subHeadings": "Backend",
-                "known": "ASP .Net"
+                "known": "ASP .Net (core 3.1)"
             }
         ]
     },
