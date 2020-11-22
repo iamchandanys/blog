@@ -52,7 +52,7 @@
         "subFields": [
             {
                 "subHeadings": "Cross Platform",
-                "known": "Xamarin"
+                "known": "Xamarin (Android & iOS)"
             }
         ]
     }
